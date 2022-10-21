@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BittnerFelix
-- 👀 I’m interested in learning Code and Fotography
+- 👀 I’m interested in learning Code and Photography
 - 🌱 I’m currently learning Python, Node.js, vue.js and bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via Instagram: der_Bittner and Twitter: der_Strobel
